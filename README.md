@@ -1,1 +1,3 @@
 # Embrace-SQL-in-Google-Colab-step-by-step-process
+
+Data scientists often rely on SQL to manipulate and analyze data stored in relational databases. In this comprehensive guide, we introduce you to two methods for working with SQL in Google Colab, a powerful cloud-based Jupyter notebook environment. These techniques enable you to seamlessly execute SQL queries, manipulate data, and create visualizations using Python and the SQLite library, as well as the SQL magic command. Whether you're a beginner or an experienced data scientist, this tutorial will help you master SQL in Google Colab, streamlining your data analysis workflow. Let's get started!!
